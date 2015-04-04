@@ -130,7 +130,6 @@ PRODUCT_PACKAGES += \
     CMFileManager \
     Terminal \
     AudioFX \
-    PerformanceControl \
     Eleven \
     LockClock \
     OmniSwitch
