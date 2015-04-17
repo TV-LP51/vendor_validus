@@ -29,8 +29,8 @@ add_lunch_combo *_MOTOROLA
 add_lunch_combo validus_condor-userdebug
 add_lunch_combo validus_falcon-userdebug
 add_lunch_combo validus_ghost-userdebug
-add_lunch_combo validus_mb886-userdebUG
-add_lunch_combo validus_titan-userdebUG
+add_lunch_combo validus_mb886-userdebug
+add_lunch_combo validus_titan-userdebug
 
 add_lunch_combo *_NEXUS
 ###############
