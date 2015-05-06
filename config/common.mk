@@ -137,6 +137,7 @@ PRODUCT_PACKAGES += \
     LockClock \
     OmniSwitch \
     OpenDelta
+    org.cyanogenmod.platform-res \
 
 # validus Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
