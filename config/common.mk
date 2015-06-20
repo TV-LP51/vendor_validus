@@ -135,7 +135,8 @@ PRODUCT_PACKAGES += \
     PerformanceControl \
     Eleven \
     LockClock \
-    OmniSwitch 
+    OmniSwitch \
+    OpenDelta
 
 # validus Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
@@ -239,6 +240,9 @@ endif
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.validus.version=$(VALIDUS_VERSION)
+    
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.delta.version=VERSION    
 
 ifeq ($(RELEASE),true)
 # Disable multithreaded dexopt by default
