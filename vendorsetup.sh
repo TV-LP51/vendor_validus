@@ -74,6 +74,7 @@ add_lunch_combo validus_serranoltexx-userdebug
 add_lunch_combo validus_skyrocket-userdebug
 add_lunch_combo validus_trltetmo-userdebug
 add_lunch_combo validus_trltespr-userdebug
+add_lunch_combo validus_trltexx-userdebug
 
 add_lunch_combo *_SONY
 ###############
