@@ -64,6 +64,7 @@ add_lunch_combo validus_lt01wifi-userdebug
 add_lunch_combo validus_jfltecan-userdebug
 add_lunch_combo validus_jfltetmo-userdebug
 add_lunch_combo validus_klte-userdebug
+add_lunch_combo validus_kltedv-userdebug
 add_lunch_combo validus_matissewifi-userdebug
 add_lunch_combo validus_n7100-userdebug
 add_lunch_combo validus_n8013-userdebug
