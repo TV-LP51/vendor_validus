@@ -136,8 +136,8 @@ PRODUCT_PACKAGES += \
     Eleven \
     LockClock \
     OmniSwitch \
-    KernelAdiutor \    
-    OpenDelta
+    OpenDelta \
+    KernelAdiutor    
 
 # validus Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
