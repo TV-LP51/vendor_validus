@@ -97,3 +97,7 @@ add_lunch_combo validus_cancro-userdebug
 add_lunch_combo *_MICROMAX
 ###############
 add_lunch_combo validus_tomato-userdebug
+
+add_lunch_combo *_GOOGLE
+###############
+add_lunch_combo validus_sprout4-userdebug
