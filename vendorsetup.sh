@@ -43,6 +43,7 @@ add_lunch_combo validus_grouper-userdebug
 add_lunch_combo validus_hammerhead-userdebug
 add_lunch_combo validus_mako-userdebug
 add_lunch_combo validus_shamu-userdebug
+add_lunch_combo validus_angler-userdebug
 
 add_lunch_combo *_ONEPLUS
 ###############
