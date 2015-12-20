@@ -38,6 +38,7 @@ add_lunch_combo validus_titan-userdebug
 
 add_lunch_combo *_NEXUS
 ###############
+add_lunch_combo validus_angler-userdebug
 add_lunch_combo validus_deb-userdebug
 add_lunch_combo validus_flo-userdebug
 add_lunch_combo validus_flounder-userdebug
